@@ -1,0 +1,1 @@
+Metadata files (e.g., sample information)

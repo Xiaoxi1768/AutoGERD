@@ -1,0 +1,1 @@
+Raw data (e.g., FASTQ, BAM)

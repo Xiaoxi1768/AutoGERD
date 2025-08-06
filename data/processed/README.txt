@@ -1,0 +1,1 @@
+Processed data (e.g., filtered, normalized)

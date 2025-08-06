@@ -1,0 +1,4 @@
+Source code for analysis
+export,lasso,PCCs,RFE是四种不同特征筛选所挑选出的特征进行多模型测试的文件,用来挑选出最优模型
+ours是本研究通过四种特征筛选得到的最优模型进行融合
+ResNet50_attetion,ResNet50_concat是用于与ResNet50_our进行比较的基准模型，前者加了注意力机制，后者没加
